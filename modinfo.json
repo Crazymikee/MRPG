@@ -1,0 +1,10 @@
+{
+    "Name": "MRPG",
+    "FriendlyName": "MRPG",
+    "Description": "MRPG Mod",
+    "Category": "Mod",
+    "Version": "1.0",
+    "CreatedBy": "NotMeCtrlP",
+    "Maps": "TestLevelMap",
+    "Dependencies": []
+}
